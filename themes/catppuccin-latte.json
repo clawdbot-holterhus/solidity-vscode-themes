@@ -916,7 +916,7 @@
       "name": "Sol: Contract",
       "scope": "storage.type.contract.solidity",
       "settings": {
-        "foreground": "#8839ef",
+        "foreground": "#6c6f85",
         "fontStyle": "italic"
       }
     },
@@ -924,7 +924,7 @@
       "name": "Sol: Is (inheritance)",
       "scope": "storage.modifier.is.solidity",
       "settings": {
-        "foreground": "#8839ef",
+        "foreground": "#6c6f85",
         "fontStyle": "italic"
       }
     },
@@ -932,7 +932,7 @@
       "name": "Sol: Interface",
       "scope": "storage.type.interface.solidity",
       "settings": {
-        "foreground": "#8839ef",
+        "foreground": "#6c6f85",
         "fontStyle": "italic"
       }
     },
@@ -940,7 +940,7 @@
       "name": "Sol: Library",
       "scope": "storage.type.library.solidity",
       "settings": {
-        "foreground": "#8839ef",
+        "foreground": "#6c6f85",
         "fontStyle": "italic"
       }
     },
@@ -948,7 +948,7 @@
       "name": "Sol: Struct",
       "scope": "storage.type.struct.solidity",
       "settings": {
-        "foreground": "#8839ef",
+        "foreground": "#6c6f85",
         "fontStyle": "italic"
       }
     },
@@ -956,7 +956,7 @@
       "name": "Sol: Event",
       "scope": "storage.type.event.solidity",
       "settings": {
-        "foreground": "#ea76cb",
+        "foreground": "#6c6f85",
         "fontStyle": "italic"
       }
     },
@@ -996,7 +996,7 @@
       "name": "Sol: Function Keyword",
       "scope": "storage.type.function.solidity",
       "settings": {
-        "foreground": "#8839ef",
+        "foreground": "#6c6f85",
         "fontStyle": "italic"
       }
     },
@@ -1012,7 +1012,7 @@
       "name": "Sol: Modifier Keyword",
       "scope": "storage.type.modifier.solidity",
       "settings": {
-        "foreground": "#8839ef",
+        "foreground": "#6c6f85",
         "fontStyle": "italic"
       }
     },
