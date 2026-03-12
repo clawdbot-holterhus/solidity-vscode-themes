@@ -2173,6 +2173,206 @@
       "settings": {
         "foreground": "#a9b1d6"
       }
+    },
+    {
+      "name": "JB: storage.type.contract",
+      "scope": "storage.type.contract",
+      "settings": {
+        "foreground": "#9aa5ce",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "JB: storage.type.interface",
+      "scope": "storage.type.interface",
+      "settings": {
+        "foreground": "#9aa5ce",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "JB: storage.type.library",
+      "scope": "storage.type.library",
+      "settings": {
+        "foreground": "#9aa5ce",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "JB: storage.type.struct",
+      "scope": "storage.type.struct",
+      "settings": {
+        "foreground": "#9aa5ce",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "JB: storage.type.function",
+      "scope": "storage.type.function",
+      "settings": {
+        "foreground": "#9aa5ce",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "JB: storage.type.event",
+      "scope": "storage.type.event",
+      "settings": {
+        "foreground": "#9aa5ce",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "JB: storage.type.modifier",
+      "scope": "storage.type.modifier",
+      "settings": {
+        "foreground": "#9aa5ce",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "JB: storage.modifier.is",
+      "scope": "storage.modifier.is",
+      "settings": {
+        "foreground": "#9aa5ce",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "JB: storage.type.constructor",
+      "scope": "storage.type.constructor",
+      "settings": {
+        "foreground": "#7aa2f7",
+        "fontStyle": "bold underline"
+      }
+    },
+    {
+      "name": "JB: storage.type.function.modifier",
+      "scope": "storage.type.function.modifier",
+      "settings": {
+        "foreground": "#9aa5ce",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "JB: storage.type.modifier.access",
+      "scope": "storage.type.modifier.access",
+      "settings": {
+        "foreground": "#73daca",
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "name": "JB: storage.type.modifier.extendedscope",
+      "scope": "storage.type.modifier.extendedscope",
+      "settings": {
+        "foreground": "#f7768e",
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "name": "JB: storage.type.modifier.indexed",
+      "scope": "storage.type.modifier.indexed",
+      "settings": {
+        "foreground": "#73daca",
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "name": "JB: storage.type.modifier.payable",
+      "scope": "storage.type.modifier.payable",
+      "settings": {
+        "foreground": "#73daca",
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "name": "JB: storage.type.modifier.readonly",
+      "scope": "storage.type.modifier.readonly",
+      "settings": {
+        "foreground": "#73daca",
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "name": "JB: entity.name.type.contract",
+      "scope": "entity.name.type.contract",
+      "settings": {
+        "foreground": "#2ac3de"
+      }
+    },
+    {
+      "name": "JB: entity.name.type.contract.extend",
+      "scope": "entity.name.type.contract.extend",
+      "settings": {
+        "foreground": "#2ac3de"
+      }
+    },
+    {
+      "name": "JB: entity.name.type.interface",
+      "scope": "entity.name.type.interface",
+      "settings": {
+        "foreground": "#2ac3de"
+      }
+    },
+    {
+      "name": "JB: entity.name.type.interface.extend",
+      "scope": "entity.name.type.interface.extend",
+      "settings": {
+        "foreground": "#2ac3de"
+      }
+    },
+    {
+      "name": "JB: entity.name.type.library",
+      "scope": "entity.name.type.library",
+      "settings": {
+        "foreground": "#2ac3de"
+      }
+    },
+    {
+      "name": "JB: entity.name.type.struct",
+      "scope": "entity.name.type.struct",
+      "settings": {
+        "foreground": "#2ac3de"
+      }
+    },
+    {
+      "name": "JB: entity.name.type.event",
+      "scope": "entity.name.type.event",
+      "settings": {
+        "foreground": "#2ac3de"
+      }
+    },
+    {
+      "name": "JB: entity.name.function.modifier",
+      "scope": "entity.name.function.modifier",
+      "settings": {
+        "foreground": "#7aa2f7"
+      }
+    },
+    {
+      "name": "JB: support.function.math",
+      "scope": "support.function.math",
+      "settings": {
+        "foreground": "#7aa2f7",
+        "fontStyle": "bold italic"
+      }
+    },
+    {
+      "name": "JB: support.function.string",
+      "scope": "support.function.string",
+      "settings": {
+        "foreground": "#7aa2f7",
+        "fontStyle": "bold italic"
+      }
+    },
+    {
+      "name": "JB: keyword.control.contract",
+      "scope": "keyword.control.contract",
+      "settings": {
+        "foreground": "#f7768e",
+        "fontStyle": "bold underline"
+      }
     }
   ]
 }
