@@ -1,0 +1,58 @@
+{
+  "name": "solidity-vscode-themes",
+  "displayName": "Solidity Color Themes",
+  "description": "5 beautiful VS Code color themes designed for Solidity smart contract development, with comprehensive scope coverage for auditing.",
+  "version": "1.0.0",
+  "publisher": "clawdbot-holterhus",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clawdbot-holterhus/solidity-vscode-themes"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart contracts",
+    "auditing",
+    "color theme",
+    "catppuccin",
+    "nord",
+    "tokyo night",
+    "github"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solidity Catppuccin Mocha",
+        "uiTheme": "vs-dark",
+        "path": "./themes/catppuccin-mocha.json"
+      },
+      {
+        "label": "Solidity Catppuccin Latte",
+        "uiTheme": "vs",
+        "path": "./themes/catppuccin-latte.json"
+      },
+      {
+        "label": "Solidity Nord",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nord-dark.json"
+      },
+      {
+        "label": "Solidity Tokyo Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-night.json"
+      },
+      {
+        "label": "Solidity GitHub Light",
+        "uiTheme": "vs",
+        "path": "./themes/github-light.json"
+      }
+    ]
+  }
+}
