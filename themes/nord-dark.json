@@ -183,15 +183,6 @@
       }
     },
     {
-      "name": "Storage",
-      "scope": [
-        "storage"
-      ],
-      "settings": {
-        "foreground": "#81a1c1"
-      }
-    },
-    {
       "name": "Storage Type Annotation",
       "scope": [
         "storage.type.annotation",
@@ -829,14 +820,6 @@
       "settings": {
         "foreground": "#d08770",
         "fontStyle": "underline"
-      }
-    },
-    {
-      "name": "Sol: Contract",
-      "scope": "storage.type.contract.solidity",
-      "settings": {
-        "foreground": "#b48ead",
-        "fontStyle": "italic"
       }
     },
     {
@@ -2185,14 +2168,6 @@
       }
     },
     {
-      "name": "JB: storage.type.contract",
-      "scope": "storage.type.contract",
-      "settings": {
-        "foreground": "#b48ead",
-        "fontStyle": "italic"
-      }
-    },
-    {
       "name": "JB: storage.type.interface",
       "scope": "storage.type.interface",
       "settings": {
@@ -2305,20 +2280,6 @@
       }
     },
     {
-      "name": "JB: entity.name.type.contract",
-      "scope": "entity.name.type.contract",
-      "settings": {
-        "foreground": "#8fbcbb"
-      }
-    },
-    {
-      "name": "JB: entity.name.type.contract.extend",
-      "scope": "entity.name.type.contract.extend",
-      "settings": {
-        "foreground": "#8fbcbb"
-      }
-    },
-    {
       "name": "JB: entity.name.type.interface",
       "scope": "entity.name.type.interface",
       "settings": {
@@ -2382,6 +2343,94 @@
       "settings": {
         "foreground": "#bf616a",
         "fontStyle": "bold underline"
+      }
+    },
+    {
+      "name": "Solidity: contract keyword",
+      "scope": [
+        "storage.type.contract",
+        "storage.type.contract.solidity"
+      ],
+      "settings": {
+        "foreground": "#b48ead",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Solidity: contract/type name",
+      "scope": [
+        "entity.name.type.contract",
+        "entity.name.type.contract.solidity",
+        "entity.name.type.contract.extend"
+      ],
+      "settings": {
+        "foreground": "#8fbcbb"
+      }
+    },
+    {
+      "name": "Solidity: interface keyword",
+      "scope": [
+        "storage.type.interface",
+        "storage.type.interface.solidity"
+      ],
+      "settings": {
+        "foreground": "#b48ead",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Solidity: library keyword",
+      "scope": [
+        "storage.type.library",
+        "storage.type.library.solidity"
+      ],
+      "settings": {
+        "foreground": "#b48ead",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Solidity: struct keyword",
+      "scope": [
+        "storage.type.struct",
+        "storage.type.struct.solidity"
+      ],
+      "settings": {
+        "foreground": "#b48ead",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Solidity: function keyword",
+      "scope": [
+        "storage.type.function",
+        "storage.type.function.solidity"
+      ],
+      "settings": {
+        "foreground": "#b48ead",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Solidity: event keyword",
+      "scope": [
+        "storage.type.event",
+        "storage.type.event.solidity"
+      ],
+      "settings": {
+        "foreground": "#b48ead",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Solidity: modifier keyword",
+      "scope": [
+        "storage.type.modifier",
+        "storage.type.modifier.solidity"
+      ],
+      "settings": {
+        "foreground": "#b48ead",
+        "fontStyle": "italic"
       }
     }
   ]
