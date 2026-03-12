@@ -1,8 +1,8 @@
 {
   "name": "solidity-vscode-themes",
   "displayName": "Solidity Color Themes",
-  "description": "10 beautiful VS Code color themes designed for Solidity smart contract development, with comprehensive scope coverage for auditing.",
-  "version": "2.0.0",
+  "description": "15 beautiful VS Code color themes designed for Solidity smart contract development, with comprehensive scope coverage for auditing.",
+  "version": "3.0.0",
   "publisher": "clawdbot-holterhus",
   "license": "MIT",
   "repository": {
@@ -29,7 +29,8 @@
     "gruvbox",
     "one dark",
     "solarized",
-    "rose pine"
+    "rose pine",
+    "ayu"
   ],
   "contributes": {
     "themes": [
@@ -82,6 +83,31 @@
         "label": "Solidity Rosé Pine",
         "uiTheme": "vs-dark",
         "path": "./themes/rose-pine.json"
+      },
+      {
+        "label": "Solidity Solarized Light",
+        "uiTheme": "vs",
+        "path": "./themes/solarized-light.json"
+      },
+      {
+        "label": "Solidity One Light",
+        "uiTheme": "vs",
+        "path": "./themes/one-light.json"
+      },
+      {
+        "label": "Solidity Rosé Pine Dawn",
+        "uiTheme": "vs",
+        "path": "./themes/rose-pine-dawn.json"
+      },
+      {
+        "label": "Solidity Gruvbox Light",
+        "uiTheme": "vs",
+        "path": "./themes/gruvbox-light.json"
+      },
+      {
+        "label": "Solidity Ayu Light",
+        "uiTheme": "vs",
+        "path": "./themes/ayu-light.json"
       }
     ]
   }
