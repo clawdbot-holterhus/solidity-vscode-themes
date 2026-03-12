@@ -802,7 +802,7 @@
       "name": "Sol: Contract",
       "scope": "storage.type.contract.solidity",
       "settings": {
-        "foreground": "#2ac3de",
+        "foreground": "#bb9af7",
         "fontStyle": "italic"
       }
     },
@@ -818,7 +818,7 @@
       "name": "Sol: Interface",
       "scope": "storage.type.interface.solidity",
       "settings": {
-        "foreground": "#2ac3de",
+        "foreground": "#bb9af7",
         "fontStyle": "italic"
       }
     },
@@ -826,7 +826,7 @@
       "name": "Sol: Library",
       "scope": "storage.type.library.solidity",
       "settings": {
-        "foreground": "#2ac3de",
+        "foreground": "#bb9af7",
         "fontStyle": "italic"
       }
     },
@@ -834,7 +834,7 @@
       "name": "Sol: Struct",
       "scope": "storage.type.struct.solidity",
       "settings": {
-        "foreground": "#2ac3de",
+        "foreground": "#bb9af7",
         "fontStyle": "italic"
       }
     },
